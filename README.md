@@ -1,2 +1,0 @@
-# HW_10
-GİT ÖDEVİM GOIT
